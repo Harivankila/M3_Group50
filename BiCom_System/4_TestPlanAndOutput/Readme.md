@@ -15,6 +15,6 @@
 |-------- |-------------------------      |-------------                            |-----------                        |
 |LLTP1    |   Window status               |User presses the blue switch on          | All led glow on at the same time  |     
 |LLTP2    |   Alarm status                |User presses the blue switch twice       |All led off at the same time       |
-|LLTP 3   |   Car battery info            |User presses the blue switch thrice      | All led on in clockwise manner    |
+|LLTP 3   |   Car battery information     |User presses the blue switch thrice      | All led on in clockwise manner    |
 |LLTP 4   |   Door status                 | User presses the blue switch four times | All led on in anti-clockwise manner|
 
