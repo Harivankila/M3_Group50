@@ -18,7 +18,7 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 * Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
 
 # SWOT Analysis
-![M3 SWOT](file:///C:/Users/sneha/Downloads/SWOT%20ANALYSIS.drawio.html)
+
 
 
 # 4W's and 1'H
