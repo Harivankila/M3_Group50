@@ -34,7 +34,7 @@ Hackers are always coming up with new ways to steal cars.As a result, thievery b
 ### Opportunities:
 Ultra-wideband (UWB) technology can provide enhanced security for PKE applications.
 
-### Threads:
+### Threats:
 Traditional forms of theft, like as lockpicking, are definitely safer with keyless fobs; nonetheless, the greatest concern is that hackers could abuse the technology and steal the vehicle.
 # Requirements
 ### High Level Requirements
