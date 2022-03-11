@@ -22,17 +22,17 @@ It works by utilising radio signals sent by the vehicle and a key fob that looks
 
 # SWOT Analysis:
 
-Strength:
+### Strength:
 When compared to unidirectional authentication, bi-directional authentication provides more security.
 Automatic Locking.
 In comparison to the mechanical key mechanism, it is a highly easy, convenient, and pleasant technology.
 
-Weakness:
+### Weakness:
 The price is prohibitively expensive.
 Hackers are always coming up with new ways to steal cars.As a result, thievery becomes easy.
 
-Opportunities:
+### Opportunities:
 Ultra-wideband (UWB) technology can provide enhanced security for PKE applications.
 
-Threads:
+### Threads:
 Traditional forms of theft, like as lockpicking, are definitely safer with keyless fobs; nonetheless, the greatest concern is that hackers could abuse the technology and steal the vehicle.
