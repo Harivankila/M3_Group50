@@ -4,4 +4,4 @@
 | Name     | PS Number | Work done |
 |----------|-----------|-----------|
 | S Harini | 99007785  |Architecture,Test Plan and output for BICOM System|
-| Sudhan Krishnasamy | 99007786  | Requirements for BICOM System |
+| Sudhan Krishnasamy | 99007786  | Requirements and report for BICOM System |
