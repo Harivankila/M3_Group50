@@ -45,7 +45,9 @@ Traditional forms of theft, like as lockpicking, are definitely safer with keyle
   | HR03 | Print battery status  | 
   | HR04 | Print display status | 
 ### Low Level Requirements
- | ID | Description | Status |
- | -- | ---------------- |----| 
- | LR01 | Source code | Implemented |
- | LR02 | LED | Implemented |
+ | ID | Description | 
+ | -- | ---------------- |
+ | LR01 | Press once ,so all LED's shall be on| 
+ | LR02 | Press once ,so all LED's shall be on |
+  | LR01 | Press thrice,so LED's shall be on in Clockwise Manner| 
+ | LR02 | Press four times,so LED's shall be on in anti-clockwise Manner|
