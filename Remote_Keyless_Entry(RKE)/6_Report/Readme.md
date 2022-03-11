@@ -62,3 +62,14 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 # Low Level Flow Chart
 
 ![image](https://user-images.githubusercontent.com/98792351/157899320-9ff2cb83-be12-4fb3-b90d-114a26819d65.png)
+
+
+# Applications
+Applications of the Remote Keyless Entry(RKE) are:
+* RKEs are generally used to remotely lock or unlock doors.
+* RKEs are often employed to secure vehicles from theft, passive keyless entry (PKE) does not involve any activity on the end user's part. 
+* RKEs are used in Auto mobile industries, cars and other vechicles.
+* RKE systems for automobiles can also operate the vehicle's ignition system, security alarm, horn, lights, and trunk, in addition to locking and unlocking the doors.
+* RKEs can also be used to regulate access to certain portions of a structure, such as garages. 
+* RKEs is used in some home automation and security systems.
+
