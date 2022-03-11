@@ -24,6 +24,15 @@ It works by utilising radio signals sent by the vehicle and a key fob that looks
 
 ![M3 SWOT](https://user-images.githubusercontent.com/98818208/157856184-8972b304-ac10-46b8-be89-fe3c5e7f5c65.jpg)
 
+# Block Diagram
+
+![Block Diagram](https://user-images.githubusercontent.com/73392962/157857961-408c6643-ea08-416e-9a03-28040cb9f832.png)
+
+# Structural Diagram
+
+![Structural diagram](https://user-images.githubusercontent.com/73392962/157858065-295f2690-eee6-4793-b74d-e3735fe4a7c4.png)
+
+
 # Requirements
 ### High Level Requirements
 | ID | Description |
