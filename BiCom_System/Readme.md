@@ -1,2 +1,3 @@
-# M3_Group50
+# Bicom System
+* Two-way communication is used in the Bicom system. The receiver performs two-way encryption and verification when the driver carries the smart card key and comes within the       designated range. The door will automatically open after verification is completed, and the driver will only need to touch the ignition button to start the vehicle. The entire     procedure does not necessitate any key operations. It will also provide the motorist with a new level of safety and comfort.The LF downlink in two-way RF systems is solely used   to wake up the key fob and establish the RF up/downlink. During the authentication procedure, the bi-directional RF link handles all communication.
 
