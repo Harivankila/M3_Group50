@@ -64,7 +64,7 @@ void led_off(uint8_t led_no)						  // here this will off led for given LED pin
 	*pGpiodDataReg &= ~(1 << led_no);
 }
 
-int btn_press(void) // Done by Nyalam Praveenraj
+int btn_press(void) 
 { // for inputting button press data and returns button count
 	int count = 0;
 	int hfmilsec = 10000000;						  // for some milli seconds
@@ -81,9 +81,7 @@ int btn_press(void) // Done by Nyalam Praveenraj
 	}
 	return count;
 }
-/*end of Nyalam Praveenraj's Work for Drivers, Delay, Debouncing and Multiple Press Detection*/
 
-// The below Encryption is done by Bashaboina Naresh
 int Encryption(int data)
 {
 
