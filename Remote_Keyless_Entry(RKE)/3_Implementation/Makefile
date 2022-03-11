@@ -22,7 +22,7 @@ all:clean main.o own_drivers_and_func.o stm32_startup.o finalled.elf run
 main.o:main.c
 	$(CC) $(CFLAGS) -o $@ $^
 
-own_drivers_and_func.o:own_drivers_and_func.c
+drivers.o and_func.o:drivers_func.c
 	$(CC) $(CFLAGS) -o $@ $^
 
 stm32_startup.o:stm32_startup.c
