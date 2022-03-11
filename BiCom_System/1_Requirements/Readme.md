@@ -36,6 +36,6 @@ It works by utilising radio signals sent by the vehicle and a key fob that looks
  | ID | Description | 
  | -- | ---------------- |
  | LR01 | Press once ,so all LED's will on| 
- | LR02 | Press once ,so all LED's will on |
+ | LR02 | Press twice ,so all LED's will off |
   | LR01 | Press thrice,so LED's will on in Clockwise Manner| 
  | LR02 | Press four times,so LED's will on in anti-clockwise Manner|
