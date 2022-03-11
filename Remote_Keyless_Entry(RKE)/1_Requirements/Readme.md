@@ -19,6 +19,7 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 
 # SWOT Analysis
 
+![WhatsApp Image 2022-03-11 at 9 45 52 PM](https://user-images.githubusercontent.com/98818208/157906003-5764b08c-638c-4638-8e00-d436066ba991.jpeg)
 
 
 # 4W's and 1'H
