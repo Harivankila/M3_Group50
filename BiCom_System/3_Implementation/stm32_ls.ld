@@ -29,3 +29,4 @@ SECTIONS
         _ebss = .; /* end of bss */
     }> SRAM /*Both source and Drain are FLASH*/
 }
+
