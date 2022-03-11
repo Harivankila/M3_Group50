@@ -18,27 +18,8 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 * Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
 
 # SWOT Analysis
+![M3 SWOT](file:///C:/Users/sneha/Downloads/SWOT%20ANALYSIS.drawio.html)
 
-## Strengths
-* Better Security
-* Convenience
-* Mistake-proof
-* Safety
-* Easier  to  manage
-* Better Data Insight
-
-## Weaknesses
-* Key battery died
-* Jamming
-* key fob cloning
-
-## Opportunities
-* The system can be integrated with a security system, garage door opener, or remotely controlled lighting equipment for offices or homes.
-
-## Threats
-* Replay attack
-* Hackers may be able to manipulate technology and steal your automobile.
-* On-board Diagnostic (OBD) port scan attack
 
 # 4W's and 1'H
 ## Who
