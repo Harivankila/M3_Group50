@@ -38,11 +38,12 @@ Ultra-wideband (UWB) technology can provide enhanced security for PKE applicatio
 Traditional forms of theft, like as lockpicking, are definitely safer with keyless fobs; nonetheless, the greatest concern is that hackers could abuse the technology and steal the vehicle.
 # Requirements
 ### High Level Requirements
-| ID | Description | Status |
- |----| ------------------ | ------ |
- | HR01 | STM32F407xx microcontroller | Implemented |
-  | HR02 | Keyfob | Implemented |
-  
+| ID | Description |
+ |----| ------------------ | 
+ | HR01 | Print window status  | 
+  | HR02 | Print Alarm status  | 
+  | HR03 | Print battery status  | 
+  | HR04 | Print display status | 
 ### Low Level Requirements
  | ID | Description | Status |
  | -- | ---------------- |----| 
