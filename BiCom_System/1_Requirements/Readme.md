@@ -47,7 +47,7 @@ Traditional forms of theft, like as lockpicking, are definitely safer with keyle
 ### Low Level Requirements
  | ID | Description | 
  | -- | ---------------- |
- | LR01 | Press once ,so all LED's shall be on| 
- | LR02 | Press once ,so all LED's shall be on |
-  | LR01 | Press thrice,so LED's shall be on in Clockwise Manner| 
- | LR02 | Press four times,so LED's shall be on in anti-clockwise Manner|
+ | LR01 | Press once ,so all LED's will on| 
+ | LR02 | Press once ,so all LED's will on |
+  | LR01 | Press thrice,so LED's will on in Clockwise Manner| 
+ | LR02 | Press four times,so LED's will on in anti-clockwise Manner|
