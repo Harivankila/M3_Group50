@@ -18,8 +18,8 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 * Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
 
 # SWOT Analysis
+![SWOT ANALYSIS](https://user-images.githubusercontent.com/85919751/157906018-2fe5849c-4597-4fbd-821f-8e4058d68751.jpg)
 
-![WhatsApp Image 2022-03-11 at 9 45 52 PM](https://user-images.githubusercontent.com/98818208/157906003-5764b08c-638c-4638-8e00-d436066ba991.jpeg)
 
 
 # 4W's and 1'H
@@ -46,11 +46,11 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
-|  HLR01   |User will be able to 	                 |  Technical| TBD|
-|  HLR02   |User will be able to               |  Technical| TBD|
-|  HLR03   |User will be able to                            |  Technical | TBD| 
-|  HLR04   |User will be able to                 |  Technical| TBD|
-|  HLR05  |User will be able to identify the typeof battery                                  |Informative| TBD|
+|  HLR01   |User will be able to print lock                |  Technical| TBD|
+|  HLR02   |User will be able to print unlock             |  Technical| TBD|
+|  HLR03   |User will be able to print alaram activation                         |  Technical | TBD| 
+|  HLR04   |User will be able to print alaram deactivation              |  Technical| TBD|
+|  HLR05  |User will be able to print approach light                                  |Informative| TBD|
 
 
 
@@ -59,11 +59,11 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
-|  LLR01   |                                            | HLR01|TBD|
-|  LLR02   |                                             | HLR02|TBD|
-|  LLR03   |	                          | HLR03|TBD| 
-|  LLR04   |            | HLR04|TBD|
-|  LLR05   |                                                      | HLR05|TBD|
+|  LLR01   |Lock status                                         | HLR01|TBD|
+|  LLR02   |Unlock status                                           | HLR02|TBD|
+|  LLR03   |Alaram activation status               | HLR03|TBD| 
+|  LLR04   |Alaram dectivation status  | HLR04|TBD|
+|  LLR05   |Approaching light status                                            | HLR05|TBD|
 
 .
 
